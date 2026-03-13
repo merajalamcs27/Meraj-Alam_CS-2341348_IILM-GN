@@ -4,4 +4,4 @@ public class a2shiftzeros {
     public static void main(String[] args) {
         
     }
-}
+}  //shifting zeroes
