@@ -1,5 +1,6 @@
 
 public class a4ATM {
+    //using balance 
 
     private int balance;
     private int pin;
