@@ -31,7 +31,7 @@ It is maintained as part of my continuous learning and academic development.
 │   └── Encapsulation
 │
 ├── Training Questions/
-│   └── कॉलेज/Academic Practice Problems
+│   └── College/Academic Practice Problems
 ```
 
 ---
