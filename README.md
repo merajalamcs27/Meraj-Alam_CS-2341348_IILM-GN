@@ -1,63 +1,54 @@
-# 📚 Academic & Coding Practice Repository
+#  Academic & Coding Practice Repository
 
-## 👨‍💻 Author
+## Author
 
 **Meraj Alam**
 
 ---
 
-## 📌 Description
+##  Description
 
 This repository contains my **daily coding practice, academic training questions, and core programming concepts**.
 It is maintained as part of my continuous learning and academic development.
 
 ---
 
-## 🚀 Repository Structure
+##  Repository Structure
 
 ```
 ├── DSA/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── LinkedList/
-│   ├── Trees/
 │   └── Daily Practice Questions
 │
 ├── OOPs concept/
-│   ├── Class & Object
-│   ├── Inheritance
-│   ├── Polymorphism
-│   ├── Abstraction
-│   └── Encapsulation
-│
-├── Training Questions/
-│   └── College/Academic Practice Problems
-```
+   ├── Class & Object
+   ├── Inheritance
+   ├── Polymorphism
+   ├── Abstraction
+   └── Encapsulation
 
 ---
 
-## 💡 What This Repository Includes
+##  What This Repository Includes
 
-### 🔹 Data Structures & Algorithms (DSA)
+###  Data Structures & Algorithms (DSA)
 
 * Daily LeetCode / practice problems
-* Topic-wise structured solutions
 * Focus on problem-solving and optimization
 
-### 🔹 OOPs Concepts
+###  OOPs Concepts
 
 * Core Object-Oriented Programming concepts
 * Clean code snippets for understanding
 * Covers real implementation examples
 
-### 🔹 Training Questions
+###  Training Questions
 
 * Academic assignments and practice questions
 * Important problems for exams and interviews
 
 ---
 
-## 📈 Learning Approach
+## Learning Approach
 
 * Consistent **daily problem solving**
 * Focus on **clean and efficient code**
@@ -66,7 +57,7 @@ It is maintained as part of my continuous learning and academic development.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * Java
 * Data Structures & Algorithms
@@ -74,18 +65,18 @@ It is maintained as part of my continuous learning and academic development.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To strengthen my **problem-solving skills**, **core programming concepts**, and build a strong foundation for **placements and real-world development**.
 
 ---
 
-## 📅 Updates
+##  Updates
 
 This repository is **regularly updated with new DSA problems and concepts**.
 
 ---
 
-## ⭐ Note
+## Note
 
 This repository reflects my **learning journey and continuous improvement in coding and development**.
